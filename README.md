@@ -4,8 +4,16 @@
 
 that's ok
 
+
 > > 那個 edge 到底是啥（或是仍然無解）
 >
 > 仍然無解。
 
 What the fx... study hard bro.
+
+-------
+
+1. asdfasdf, asdfasdf, asdfasdf,
+1. asdfasdf,
+  asdfasdf,
+  asdfasdf,
