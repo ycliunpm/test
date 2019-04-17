@@ -2,8 +2,10 @@
 test test 123
 
 
-> * this is a list
+> 1. this is a list
+> 1. this is two list
 
 --------
 
-* > this is a list
+1. > this is a list
+1. > this is two list
